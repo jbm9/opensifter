@@ -1,9 +1,8 @@
-.skel
-=====
+There's a great Lucky Charms sifter up on Thingiverse: http://www.thingiverse.com/thing:12772 
 
-This is a skeleton project.  It needs better documentation.
+But it has one problem: it's only available as an STL file, not in the helpfully open source OpenSCAD format!  Also it didn't fit on my 3D printer and I don't own any STL editing software.
 
-Contents:
+So, I've recreated it here as a present for my little sister.
 
-web/ -- An empty website for this thing
-code/ -- An empty directory for code for this thing
+Serious props to Tom Lombardi for his work in the original design,
+which probably took a lot of arduous test runs.
